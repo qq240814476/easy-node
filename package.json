@@ -1,0 +1,22 @@
+{
+  "name": "easy-node",
+  "version": "1.0.0",
+  "description": "project for node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qq240814476/easy-node.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "malin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qq240814476/easy-node/issues"
+  },
+  "homepage": "https://github.com/qq240814476/easy-node#readme"
+}
