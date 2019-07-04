@@ -4,6 +4,7 @@
   "description": "project for node",
   "main": "index.js",
   "scripts": {
+    "start": "node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -18,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/qq240814476/easy-node/issues"
   },
-  "homepage": "https://github.com/qq240814476/easy-node#readme"
+  "homepage": "https://github.com/qq240814476/easy-node#readme",
+  "dependencies": {
+    "@koa/cors": "^3.0.0",
+    "koa": "^2.7.0"
+  }
 }
